@@ -747,6 +747,7 @@ Please refer to this [page](https://github.com/swagger-api/swagger-codegen/blob/
 Companies/Projects using Swagger Codegen
 ----------------------------------------
 Here are some companies/projects using Swagger Codegen in production. To add your company/project to the list, please visit [README.md](https://github.com/swagger-api/swagger-codegen/blob/master/README.md) and click on the icon to edit the page.
+- [Acando](https://www.acando.de/)
 - [Accengage](https://www.accengage.com/)
 - [Accruent](https://www.accruent.com/)
 - [Activehours](https://www.activehours.com/)
@@ -1103,7 +1104,7 @@ If you want to join the committee, please kindly apply by sending an email to wi
 | Ruby      | @cliffano (2017/07) @zlx (2017/09) |
 | Rust      | @frol (2017/07) @farcaller (2017/08) @bjgill (2017/12) |
 | Scala     | @clasnake (2017/07) @jimschubert (2017/09) @shijinkui  (2018/01) @ramzimaalej (2018/03) |
-| Swift     | @jgavris (2017/07) @ehyche (2017/08) @Edubits (2017/09) @jaz-ah (2017/09) |
+| Swift     | @jgavris (2017/07) @ehyche (2017/08) @Edubits (2017/09) @jaz-ah (2017/09) @d-date  (2018/03) |
 | TypeScript | @TiFu (2017/07) @taxpon (2017/07) @sebastianhaas (2017/07) @kenisteward (2017/07) @Vrolijkx (2017/09) @macjohnny (2018/01) |
 
 
